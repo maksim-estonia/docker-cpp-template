@@ -18,7 +18,10 @@
 		"ms-vscode.cpptools",
 		"jeff-hykin.better-cpp-syntax",
 		"ms-vscode.cpptools-extension-pack",
-		"hars.cppsnippets"
+		"hars.cppsnippets",
+		"yzhang.markdown-all-in-one",
+		"mdickin.markdown-shortcuts",
+		"bierner.markdown-preview-github-styles"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
